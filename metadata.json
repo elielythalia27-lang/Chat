@@ -1,0 +1,6 @@
+{
+  "name": "Nexus",
+  "description": "Mensajería instantánea privada con chats directos, grupos y transferencia multimedia segura.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
